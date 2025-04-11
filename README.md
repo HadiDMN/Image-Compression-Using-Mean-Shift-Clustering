@@ -31,6 +31,7 @@ This project implements an image compression technique using the Mean Shift clus
 5. **Visualization**: Multiple plots are generated to provide insights into the compression process, such as color distribution, cluster sizes, and a PCA scatter plot of pixel clusters.  
 
 ## Results  
+Result.png
 - The project successfully compresses the input image, achieving a theoretical compression rate of **6.00x** and a file compression rate of **6.56x** (as shown in the output).  
 - The compressed image uses **15 clusters**, significantly reducing the color complexity while maintaining visual fidelity.  
 - Visualizations provide a clear comparison between the original and compressed images, along with detailed insights into the clustering process.  
